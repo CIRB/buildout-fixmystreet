@@ -1,6 +1,5 @@
 *.pyc
 *.egg-info
-src
 lib
 include
 parts

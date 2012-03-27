@@ -1,0 +1,3 @@
+[submodule "src/django_fixmystreet"]
+	path = src/django_fixmystreet
+	url = git@github.com:CIRB/django-fixmystreet.git
