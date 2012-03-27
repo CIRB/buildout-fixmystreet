@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Sample buildout_script script template
+%(cmds)s
